@@ -1,0 +1,3 @@
+- git:
+    uri: https://github.com/callemein/ROS_QT_Example
+    local-name: ROS_QT_Example
